@@ -59,7 +59,7 @@ with st.sidebar:
     st.divider()
 
 with st.sidebar:
-    st.subheader("👨‍💻 Author: **Yaksh Birla**", anchor=False)
+    st.subheader("👨‍💻 Author: **Jota**", anchor=False)
     
     st.subheader("🔗 Contact / Connect:", anchor=False)
     st.markdown(
